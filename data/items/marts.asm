@@ -96,10 +96,10 @@ Goldenrod2FMart1:
 	db ANTIDOTE
 	db PARALYZEHEAL
 	db AWAKENING
-	db BURN_HEAL
-	db ICE_HEAL
-	db FULL_HEAL
-	db REVIVE
+	db ODD_SOUVENIR
+	db THUNDERSTONE
+	db FIRE_STONE
+	db BOTTLE_CAP
 	db -1
 
 Goldenrod2FMart2:
